@@ -1,4 +1,4 @@
-package com.ll.gb.domain.chat.room
+package com.ll.gb.domain.chat.room.controller
 
 import com.ll.gb.domain.chat.room.dto.ChatRoomDto
 import org.springframework.web.bind.annotation.GetMapping
